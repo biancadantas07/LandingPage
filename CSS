@@ -1,0 +1,71 @@
+.imagem-carrossel {
+   object-fit: cover;
+   object-position: 0 80%;
+   height: 400px;
+}
+
+.fonte-titulo {
+   font-family: "Pacifico", cursive;
+   font-weight: 400;
+   font-style: normal;
+}
+
+
+.txt-frase {
+   font-family: "Pacifico", cursive;
+   font-weight: 400;
+   font-style: normal;
+}
+
+.cor_txt{
+   color: #0026ff;
+}
+
+.cor_txt1{
+   background-color: rgb(21, 92, 224);
+}
+
+.nav-txt{
+   color: white;
+}
+
+.borda-cor-espe{
+   border-color: rgb(0, 242, 255);
+}
+
+.borda-cor-espe:hover{
+   border-color: rgb(8, 0, 255);
+}
+
+.botao-cor-espe{
+   background-color: rgb(21, 92, 224);
+   color: whitesmoke;
+}
+
+.botao-cor-espe:hover{
+   background-color: skyblue;
+   color: white;
+}
+
+.card-posicao-imagem{
+   object-fit: cover;
+   height: 200px;
+   object-position: 0 60%;
+}
+
+.card-largura{
+   max-width: 18rem;
+}
+.card {
+   border: 1px solid #dee2e6;
+   border-radius: .25rem;
+ }
+ 
+ .card-title {
+   font-size: 1.25rem;
+   font-weight: bold;
+ }
+ 
+ .card-text {
+   font-size: 1rem;
+ }
